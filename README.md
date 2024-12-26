@@ -182,4 +182,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Snowflake Documentation](https://docs.snowflake.com/)
 - [Apache Airflow Documentation](https://airflow.apache.org/docs/)
 - [Astronomer Cosmos](https://github.com/astronomer/astronomer-cosmos)
-- [GCP/Snowflake Documentation] (https://docs.snowflake.com/en/user-guide/data-load-gcs-config)
+- [GCP/Snowflake Documentation](https://docs.snowflake.com/en/user-guide/data-load-gcs-config)
