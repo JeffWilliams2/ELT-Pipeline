@@ -41,16 +41,12 @@ graph LR
 ## 🚀 Quick Start
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/modern-elt-pipeline.git
-   cd modern-elt-pipeline
-   ```
 
 2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
-
+   
 3. **Configure Snowflake**
    ```sql
    -- Run in Snowflake
@@ -145,36 +141,9 @@ dbt test --select test_type:singular
 - `fct_orders`: Core fact table with order metrics
 - `int_order_items`: Intermediate table for order analysis
 
-## 🛠️ Development
-
-1. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-
-2. Make your changes and commit:
-   ```bash
-   git commit -m "Add your feature description"
-   ```
-
-3. Push to your branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-
-4. Create a Pull Request
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## ✨ Acknowledgments
 
